@@ -1,0 +1,7 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:100%;
+    font-family: 'Courier New', Courier, monospace;
+}
